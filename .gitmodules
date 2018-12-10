@@ -1,0 +1,9 @@
+[submodule "cf"]
+	path = cf
+	url = https://github.com/partovengine/cf.git
+[submodule "evaluation"]
+	path = evaluation
+	url = https://github.com/partovengine/evaluation.git
+[submodule "partovnse"]
+	path = partovnse
+	url = https://github.com/partovengine/partovnse.git
